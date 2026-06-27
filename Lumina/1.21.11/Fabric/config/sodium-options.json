@@ -1,0 +1,10 @@
+{
+  "quality": {
+    "improved_fluid_shaping": true,
+  },
+  "notifications": {
+    "has_cleared_donation_button": true,
+    "has_seen_donation_prompt": true,
+    "has_edited_fullscreen_option": true
+  }
+}
