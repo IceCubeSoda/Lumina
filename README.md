@@ -9,10 +9,8 @@
 - ⚙️ Persistent Settings <br>
 - 🍁 Utility Changes </b>
 
-## <small>⭐ Recommendation</small>
-- <b>🪟 Windows 11 (Atlas OS) <br>
-- ♨️ Java (Adoptium) <br>
-- 💠 Prism Launcher </b>
+## <small>Usefull Links</small>
+[Even More Optimizations](https://github.com/IceCubeSoda/Lumina/wiki/Even-More-Optimization)
 
 ## <small>🗺️ Roadmap</small>
 - <b>🔖 Releases and April Fools Snapshots Support </b> <small>(Work in progress)</small> <br> 
