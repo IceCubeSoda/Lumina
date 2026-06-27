@@ -11,6 +11,7 @@
 
 ## <small>Usefull Links</small>
 - ➕ [Even More Optimizations](https://github.com/IceCubeSoda/Lumina/wiki/Even-More-Optimization)
+- 🏅 [Contribution](https://github.com/IceCubeSoda/Lumina/blob/main/CONTRIBUTING.md)
 
 ## <small>🗺️ Roadmap</small>
 - <b>🔖 Releases and April Fools Snapshots Support </b> <small>(Work in progress)</small> <br> 
