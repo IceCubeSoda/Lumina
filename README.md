@@ -10,6 +10,7 @@
 - 🍁 Utility Changes </b>
 
 ## <small>Usefull Links</small>
+- 🧾 [Recommended Setup](https://github.com/IceCubeSoda/Lumina/wiki/Recommended-Setup)
 - ➕ [Even More Optimizations](https://github.com/IceCubeSoda/Lumina/wiki/Even-More-Optimization)
 - 🏅 [Contribution](https://github.com/IceCubeSoda/Lumina/blob/main/CONTRIBUTING.md)
 
