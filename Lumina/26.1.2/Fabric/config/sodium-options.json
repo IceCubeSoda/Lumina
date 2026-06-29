@@ -1,0 +1,13 @@
+{
+  "quality": {
+    "improved_fluid_shaping": true
+  },
+  "advanced": {
+    "cpu_render_ahead_limit": 2
+  },
+  "notifications": {
+    "has_cleared_donation_button": true,
+    "has_seen_donation_prompt": true,
+    "has_edited_fullscreen_option": true
+  }
+}
