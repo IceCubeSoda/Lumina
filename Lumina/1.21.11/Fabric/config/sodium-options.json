@@ -1,6 +1,9 @@
 {
   "quality": {
-    "improved_fluid_shaping": true,
+    "improved_fluid_shaping": true
+  },
+  "advanced": {
+    "cpu_render_ahead_limit": 2
   },
   "notifications": {
     "has_cleared_donation_button": true,
