@@ -1,0 +1,21 @@
+filename = 'obe+26.2-1.1.31.jar'
+name = 'Optimized Block Entities'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.31'
+
+[download]
+hash = '12d03d509c1913eb32c4733b1a90350a16c5245d06ccf09b61c6d8786b4e2c97fbe30d368aaae5f55681b4ed6a35e87c48297349923e4c1b24ae44ee1dbd4e02'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AtOSAunf/versions/QSOSmSMq/obe%2B26.2-1.1.31.jar'
+
+[update.modrinth]
+mod-id = 'AtOSAunf'
+version = 'QSOSmSMq'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
