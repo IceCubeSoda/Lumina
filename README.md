@@ -11,6 +11,7 @@ This project started as a personal solution to make Minecraft playable on low-en
 Explore the project, read documentation, or download the pack using the links below:
 
 *   🌐 **[Modrinth Page](https://modrinth.com/modpack/luminamc)** — Download and install the latest version.
+*   💬 **[Discord Server](https://discord.gg/gG4HY9ZkMW)** — Join our community for support, updates, and discussion.
 *   📚 **[Official Wiki](https://github.com/IceCubeSoda/Lumina/wiki)** — Learn everything about the project.
 *   🎀 **[Even More Optimizations](https://github.com/IceCubeSoda/Lumina/wiki/Even-More-Optimization)** — Extra tweaks to squeeze out more performance.
 *   ❓ **[Why Won't I Use...](https://github.com/IceCubeSoda/Lumina/wiki/Why-Wont-I-Use...)** — Explanations on why certain popular mods were excluded.
@@ -19,7 +20,9 @@ Explore the project, read documentation, or download the pack using the links be
 
 ---
 
-## 🛠️ Contributing & Future Plans
+## 🤝 Support & Contribution
+
+If you want to help develop the modpack, report issues, or support the project with a donation, please join the official **[Discord Server](https://discord.gg/gG4HY9ZkMW)**! 
 
 > 🚧 **Note:** The documentation and repository are currently a work in progress. 
 
