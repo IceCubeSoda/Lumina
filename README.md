@@ -1,8 +1,10 @@
 # 🌟 Lumina
 
-Welcome to the official GitHub repository for **Lumina**, a lightweight, high-performance optimization modpack for Minecraft Java Edition. 
+Welcome to the official GitHub repository for **Lumina**, a lightweight, high-performance optimization modpack for Minecraft. 
 
-This project started as a personal solution to make Minecraft playable on low-end hardware that otherwise struggles with the vanilla game. Unlike other massive bloatware modpacks, Lumina is **100% vanilla-friendly**—if a feature or mechanic works in vanilla Minecraft, it works here. Every mod is carefully researched and selected to include some of the most unique and useful optimization tools available, keeping the entire profile incredibly light at **just 18 mods** on the latest version.
+This project started as a personal solution to make Minecraft playable on low-end hardware that otherwise struggles with the vanilla game. Unlike other massive bloatware modpacks, Lumina is **100% vanilla-friendly**—if a feature or mechanic works in vanilla Minecraft, it works here. Every mod is carefully researched and selected to include some of the most unique and useful optimization tools available, keeping the entire profile incredibly light. 
+
+*Note: The exact mod count and list will vary depending on the version you play (Fabric, Forge, or older versions) to ensure maximum optimization for each platform.*
 
 ---
 
@@ -13,6 +15,7 @@ Explore the project, read documentation, or download the pack using the links be
 *   🌐 **[Modrinth Page](https://modrinth.com/modpack/luminamc)** — Download and install the latest version.
 *   💬 **[Discord Server](https://discord.gg/gG4HY9ZkMW)** — Join our community for support, updates, and discussion.
 *   📚 **[Official Wiki](https://github.com/IceCubeSoda/Lumina/wiki)** — Learn everything about the project.
+*   📋 **[Dedicated Modlists](https://github.com/IceCubeSoda/Lumina/wiki/Modlist)** — Full breakdowns of the specific mods used for each Minecraft version and loader (Fabric, Forge, etc.).
 *   🎀 **[Even More Optimizations](https://github.com/IceCubeSoda/Lumina/wiki/Even-More-Optimization)** — Extra tweaks to squeeze out more performance.
 *   ❓ **[Why Won't I Use...](https://github.com/IceCubeSoda/Lumina/wiki/Why-Wont-I-Use...)** — Explanations on why certain popular mods were excluded.
 *   ❄️ **[For Modpack Developers](https://github.com/IceCubeSoda/Lumina/wiki/For-Modpack-Devloper)** — Guide on using Lumina's base configuration for your own packs.
